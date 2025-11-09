@@ -1,15 +1,3 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00D1F7&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Ziwan;Student+%7C+Big+Data+%7C+Java+Developer;Welcome+to+my+GitHub+Profile!" />
-</h1>
-
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ziwan168" />
-</p>
-
----
-
 ## 👨‍🎓 About Me
 - 🎓 Student majoring in **Data Science and Big Data Technology**  
 - 💻 Focused on **Backend Development**, **Big Data Engineering**, **Databases**  
